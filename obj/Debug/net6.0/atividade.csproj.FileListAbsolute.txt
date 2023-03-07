@@ -1,0 +1,15 @@
+C:\Cadastro_cliente\atividade\bin\Debug\net6.0\atividade.exe
+C:\Cadastro_cliente\atividade\bin\Debug\net6.0\atividade.deps.json
+C:\Cadastro_cliente\atividade\bin\Debug\net6.0\atividade.runtimeconfig.json
+C:\Cadastro_cliente\atividade\bin\Debug\net6.0\atividade.dll
+C:\Cadastro_cliente\atividade\bin\Debug\net6.0\atividade.pdb
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\atividade.csproj.AssemblyReference.cache
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\atividade.AssemblyInfoInputs.cache
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\atividade.AssemblyInfo.cs
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\atividade.csproj.CoreCompileInputs.cache
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\atividade.dll
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\refint\atividade.dll
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\atividade.pdb
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\atividade.genruntimeconfig.cache
+C:\Cadastro_cliente\atividade\obj\Debug\net6.0\ref\atividade.dll
